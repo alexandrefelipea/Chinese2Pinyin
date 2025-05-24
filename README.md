@@ -7,9 +7,11 @@ A web-based tool to convert Chinese characters to Pinyin and generate Text-to-Sp
 - Generate audio pronunciation using TTSMP3 API
 - Download generated audio as MP3
 - Secure CORS handling via Cloudflare Workers
+
+### Live Demo (without audio generation because of neocities CSP)🚀
+[Open demo](https://chinese2pinyin.neocities.org/)
   
-### Live Demo 🚀  
-[Try it on GitHub Pages](https://yourusername.github.io/repo-name/)
+<img src="https://i.ibb.co/W4BQVL6x/a.png" alt="drawing" width="600"/>
 
 ### Installation 💻
 ```bash
